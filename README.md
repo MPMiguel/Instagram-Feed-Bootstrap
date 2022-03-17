@@ -1,3 +1,29 @@
+1-Linkeamos bootstrap y javascript
+
+2-Creo un container con el navbar
+
+3-El boton del navbar abre un modal que simula la creacion de una publicacion.
+
+4-Creo un dropdown menu con el icono correspondiente que muestra diversas opciones de ejemplo.
+
+5-Introduzco nav.pills para el feed principal de imagenes y el de los post
+
+6-Por ultimo creo cards para simular las publicaciones en la otra ventana
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
